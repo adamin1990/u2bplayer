@@ -14,7 +14,10 @@ youtube  播放器
 * PagerSlidingTabStrip
 * 视频播放 
 * youtube sdk的使用等等 .
+
+
 ##截图 
+
 ![image](https://github.com/adamin1990/u2bplayer/raw/master/art/4.jpg)
 
 ![image](https://github.com/adamin1990/u2bplayer/raw/master/art/3.jpg)
